@@ -1,0 +1,5 @@
+[run]
+include = hyconhacks/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
